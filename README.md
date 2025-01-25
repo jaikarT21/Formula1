@@ -31,5 +31,23 @@ Ensured scalability and maintainability with modular pipeline architecture.
 - APIs: ERGAST API
 - Data Governance: Unity Catalog
 
+# > REPORTS OF DOMINANT DRIVERS FROM F1
+
+<img width="771" alt="databricks_dominant_drivers" src="https://github.com/user-attachments/assets/6c3d873f-90d1-4a1b-aee4-31164a3c8508" />
+
+<img width="782" alt="databricks_dominant_drivers_by_avg_points" src="https://github.com/user-attachments/assets/696371df-726c-465c-b5d7-0bb9e0857307" />
+
+
+# > REPORTS OF DOMINANT CONSTRUCTORS FROM F1 
+
+<img width="855" alt="databricks_dominant_team" src="https://github.com/user-attachments/assets/cc17261a-7fa8-484a-baaf-87222c4d584f" />
+
+<img width="629" alt="databriks_dominant_team_by_total_points_races" src="https://github.com/user-attachments/assets/d6446d15-a2b9-4614-aa21-a08af09dafad" />
+
+
+
+
+
+
 
 
